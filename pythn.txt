@@ -1,1 +1,3 @@
 print("studying in fintech")
+
+print("studying in gujrat university")
